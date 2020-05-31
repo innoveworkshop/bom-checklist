@@ -11,6 +11,13 @@ A simple application to create checklists, notes and other minor things related 
 </p>
 
 
+## Companion Applications
+
+To make this tool even more useful, this is a list of the companion applications that will enrich your experience:
+
+  - [PocketPC](https://github.com/innoveworkshop/bom-checklist-pocketpc)
+
+
 ## Example BOM File
 
 This program accepts a CSV file that is in the following format:
